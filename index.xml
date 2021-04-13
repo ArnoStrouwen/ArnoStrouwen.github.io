@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Experimental Woes</title>
+		<link>https://arnostrouwen.github.io/</link>
+		<description>Recent content on arnostrouwen.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Tue, 13 Apr 2021 04:36:41 +0200</lastBuildDate>
+		
+		<atom:link href="https://arnostrouwen.github.io/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Mypost</title>
+			<link>https://arnostrouwen.github.io/posts/mypost/</link>
+			<pubDate>Tue, 13 Apr 2021 04:36:41 +0200</pubDate>
+			
+			<guid>https://arnostrouwen.github.io/posts/mypost/</guid>
+			<description>
+			
+				
+			
+			</description>
+		</item>
+		
+	</channel>
+</rss>
